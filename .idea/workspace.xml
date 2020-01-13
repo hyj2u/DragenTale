@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="53c000b5-feec-4933-b448-3d812698377b" name="Default Changelist" comment="start code">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DragonTale.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Game/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Game/GamePanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GameState/GameState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GameState/GameStateManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GameState/MenuState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Resources/Backgrounds/grassbg1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Resources/Backgrounds/menubg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Resources/HUD/hud.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Resources/Maps/level1-1.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Resources/Sprites/Enemies/arachnik.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Resources/Sprites/Enemies/explosion.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Resources/Sprites/Enemies/slugger.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Resources/Sprites/Player/fireball.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Resources/Sprites/Player/playersprites.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Resources/Tilesets/grasstileset.gif" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\hyj2u\Documents\DragonTale\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WKUTBNupF9Wvg6h9Tm9MA2mpra" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hyj2u\Documents\DragonTale\src\Resources" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53c000b5-feec-4933-b448-3d812698377b" name="Default Changelist" comment="" />
+      <created>1578897784352</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578897784352</updated>
+      <workItem from="1578897788215" duration="3723000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="start code" />
+    <option name="LAST_COMMIT_MESSAGE" value="start code" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="872" y="362" key="#Project_Structure" timestamp="1578897821391">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="872" y="362" key="#Project_Structure/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1578897821391" />
+    <state x="1085" y="409" key="#com.intellij.ide.util.MemberChooser" timestamp="1578901151725">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1085" y="409" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1578901151725" />
+    <state x="907" y="294" key="CommitChangelistDialog2" timestamp="1578901450997">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="907" y="294" key="CommitChangelistDialog2/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1578901450997" />
+    <state x="1060" y="444" key="FileChooserDialogImpl" timestamp="1578901353024">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1060" y="444" key="FileChooserDialogImpl/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1578901353024" />
+    <state x="760" y="278" key="SettingsEditor" timestamp="1578901398308">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="760" y="278" key="SettingsEditor/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1578901398308" />
+    <state x="984" y="332" width="758" height="735" key="find.popup" timestamp="1578897973310">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="984" y="332" width="758" height="735" key="find.popup/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1578897973310" />
+    <state x="936" y="330" key="run.anything.popup" timestamp="1578900821162">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="936" y="330" key="run.anything.popup/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1578900821162" />
+    <state x="943" y="315" key="search.everywhere.popup" timestamp="1578899913769">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="943" y="315" key="search.everywhere.popup/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1578899913769" />
+  </component>
+</project>
